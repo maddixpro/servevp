@@ -2,9 +2,9 @@
     "ads":"true",
     "update":[{
       "version":"2.8.300",
-      "title":"This app is a vpn",
+      "title":"This app is a vpn By XproApps",
       "description":"The app contains ads from which we generate a small revenue to enable us obtain and mantain fast private and reliable servers ",
-      "size":"11.2MB"
+      "size":"7MB"
     }],
     "blocked":[
       {"id":0, "app":"com.android.game"},
