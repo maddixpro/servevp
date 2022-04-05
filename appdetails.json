@@ -21,5 +21,5 @@
         {"id":2, "file":2, "city":"NewYork TCP 443","country":"unitedstates","image":"unitedstates","ip":"143.198.191.166","active":"true","signal":"b"},
         {"id":3, "file":3, "city":"Washington BEST TCP 443","country":"unitedstates","image":"unitedstates","ip":"13.72.82.129","active":"true","signal":"a"}
         
-    ],
+    ]
   }
