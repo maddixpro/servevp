@@ -1,25 +1,28 @@
 {
-    "ads":"true",
-    "update":[{
-      "version":"1.0.2",
-      "title":"This app is a vpn By XproApps",
-      "description":"WELCOME",
-      "size":"7MB"
-    }],
-    "blocked":[
-      {"id":0, "app":"com.android.game"},
-      {"id":1, "app":"com.utorrent.client"},
-      {"id":2, "app":"com.torrent.client"},
-      {"id":3, "app":"com.tor.client"},
-      {"id":4, "app":"com.insta.client"},
-      {"id":5, "app":"com.facebook.client"},
-      {"id":6, "app":"com.get.client"}
-    ],
-    "free":[
-        {"id":0, "file":0, "city":"Toronto TCP 443","country":"canada","image":"canada","ip":"134.122.39.64","active":"true","signal":"a"},
-        {"id":1, "file":1, "city":"London TCP 443","country":"unitedkingdom","image":"unitedkingdom","ip":"134.122.39.64 ","active":"true","signal":"b"},
-        {"id":2, "file":2, "city":"NewYork TCP 443","country":"unitedstates","image":"unitedstates","ip":"143.198.191.166","active":"true","signal":"b"},
-        {"id":3, "file":3, "city":"Washington BEST TCP 443","country":"unitedstates","image":"unitedstates","ip":"13.72.82.129","active":"true","signal":"a"}
-        
-    ]
-  }
+  "ads":"true",
+  "update":[{
+    "version":"2.8.2000",
+    "title":"Do you like this VPN app? Check the source code!",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn and follow the developer on GitHub github.com/gayanvoice",
+    "size":"https://git.io/JeY69"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":2, "file":1, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":3, "file":1, "city":"Bangkok","country":"United States","image":"thailand","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":4, "file":1, "city":"London","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"c"},
+    {"id":6, "file":1, "city":"Sydney","country":"United States","image":"australia","ip":"205.185.119.100","active":"true","signal":"c"}
+    
+  ]
+}
