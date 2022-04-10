@@ -3,8 +3,8 @@
   "update":[{
     "version":"1.0.1",
     "title":"XPRO-VPN",
-    "description":"Xpro Vpn is a free VPN that is made by XproApps there are a few ads from which we generate money to maintain the app and its savers"
-    "size":"4MBs Only"
+    "description":"Xpro Vpn is a free VPN that is made by XproApps there are a few ads from which we generate money to maintain the app and its savers",
+    "size":"4MBs Only",
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
